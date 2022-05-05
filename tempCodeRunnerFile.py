@@ -1,0 +1,1 @@
+r"C:\Users\archi\Desktop\Faceial-Recogniton-Based-Security-System\haarcascade_frontalface_alt.xml"
